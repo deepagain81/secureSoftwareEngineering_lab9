@@ -1,8 +1,6 @@
 # secureSoftwareEngineering_lab9
-This is a lab 9 contains
+This is a lab 9 read.me
 
-I deployed dionaea honeypot
+Honeypot deployed: dionaea
 
-No of attack : 1016 
-No of malware: 0
-
+No of attack : 1016
